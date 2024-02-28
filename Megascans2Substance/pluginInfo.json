@@ -1,0 +1,9 @@
+{
+    "metadata_format_version": "1",
+    "name": "Megascans2Substance",
+    "version": "1.0.0",
+    "author": "Rohan Mehto",
+    "email": "rohan@monastichill.com",
+    "min_designer_version": "10.1.1",
+    "platform": "any"
+}
